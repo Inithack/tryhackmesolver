@@ -9,3 +9,5 @@ const user = {
   role: "Developer",
   active: true
 };
+
+console.table(user);
